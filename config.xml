@@ -8,16 +8,13 @@
     <content src="index.html" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
-
-    <!--<icon src="res/icon.png" />-->
-
+	
     <allow-navigation href="*" />
 
     <platform name="android">
       <preference name="StatusBarOverlaysWebView" value="false" />
       <preference name="android-minSdkVersion" value="22" />
       <framework src="com.android.support:support-v4:+" />
-      <resource-file src="res/values/colors.xml" target="/app/src/main/res/values/colors.xml" />
       <icon density="ldpi" src="res/icon/android/mipmap-ldpi/ic_launcher.png" />
       <icon density="mdpi" src="res/icon/android/mipmap-mdpi/ic_launcher.png" />
       <icon density="hdpi" src="res/icon/android/mipmap-hdpi/ic_launcher.png" />
@@ -29,10 +26,9 @@
       <splash density="port-mdpi" src="res/screen/android/drawable-port-mdpi-screen.png" />
       <splash density="port-xhdpi" src="res/screen/android/drawable-port-xhdpi-screen.png" />
       <splash density="port-xxhdpi" src="res/screen/android/drawable-port-xxhdpi-screen.png" />
-      <splash density="port-xxxhdpi" src="res/screen/android/drawable-port-xxxhdpi-screen.png" />-->
+      <splash density="port-xxxhdpi" src="res/screen/android/drawable-port-xxxhdpi-screen.png" /-->
     </platform>
 
-    <preference name="android-targetSdkVersion" value="32" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="BackupWebStorage" value="local" />
     <preference name="AutoHideSplashScreen" value="true" />
