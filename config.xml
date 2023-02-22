@@ -24,8 +24,9 @@
       <icon density="xhdpi" src="res/icon/android/mipmap-xhdpi/ic_launcher.png" />
       <icon density="xxhdpi" src="res/icon/android/mipmap-xxhdpi/ic_launcher.png" />
       <icon density="xxxhdpi" src="res/icon/android/mipmap-xxxhdpi/ic_launcher.png" />
-      <preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/screen/android/drawable-port-xxxhdpi-screen.png"/>
-      <!--<preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/screen/splashscreen.xml" />
+      <preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/screen/splashscreen.xml" />
+      <!--<preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/screen/android/drawable-port-xxxhdpi-screen.png"/>
+      <preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/screen/splashscreen.xml" />
       <splash density="port-hdpi" src="res/screen/android/drawable-port-hdpi-screen.png" />
       <splash density="port-ldpi" src="res/screen/android/drawable-port-ldpi-screen.png" />
       <splash density="port-mdpi" src="res/screen/android/drawable-port-mdpi-screen.png" />
