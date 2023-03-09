@@ -31,6 +31,6 @@
     <preference name="CordovaWebViewEngine" value="CDVWKWebViewEngine" />
     <preference name="AllowInlineMediaPlayback" value="true" />
     <preference name="SplashScreenDelay" value="10000" />
-	  <preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/screen/app_logo.png" />
+    <preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/screen/logo_100.png" />
     <preference name="AndroidWindowSplashScreenBackground" value="#EF863F" />
 </widget>
